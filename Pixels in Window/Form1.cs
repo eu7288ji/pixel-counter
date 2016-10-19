@@ -16,5 +16,10 @@ namespace Pixels_in_Window
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
